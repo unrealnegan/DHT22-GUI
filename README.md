@@ -1,4 +1,4 @@
-- [X] OpenWeatherMap support
+- [ ] OpenWeatherMap support
 - [ ] Temperature history
 - [ ] Add DHT11 support over GUI
 - [ ] Pinout settings over GUI
